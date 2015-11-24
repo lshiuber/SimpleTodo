@@ -1,2 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_1ebc500dae446e215a2efcfb961911807979a26d.jar" />
+    </item>
+    <item
+        jar="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_7ba39c094590f43d99b1b7f1f7331e4e90890c54.jar" />
+    </item>
+    <item
+        jar="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_2772d3455b47a3b8264b71f4e8e2243ba9e1ef9e.jar" />
+    </item>
+    <item
+        jar="/Users/lshi/Documents/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_38084cdcd8f1ab19dcf149037778bb6914c8e82f.jar" />
+    </item>
+    <item
+        jar="/Users/lshi/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/pre-dexed/debug/commons-io-2.4_94093f510d07a1a7dbd4ed198dc160fa29b96918.jar" />
+    </item>
+    <item
+        jar="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_d98b8ce92a3b730479a14508a3b93f2ef0dbb4fa.jar" />
+    </item>
+    <item
+        jar="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/lshi/mobile_training/SimpleTodo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_1c02e15918ec06ea9509db91e48eba20b6da07bd.jar" />
+    </item>
+
+</items>
